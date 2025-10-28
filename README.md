@@ -1,7 +1,7 @@
 # 🧩 Aula Prática – Git Local (sem GitHub)
 
 ## 🎯 Objetivo
-Aprender a utilizar o **Git** localmente para versionar projetos, criando commits, branches e manipulando o histórico de forma segura.
+Aprender a utilizar o **Git** localmente para versionar projetos, criando commits, branches e manipulando o histórico de forma segura..
 
 ---
 
