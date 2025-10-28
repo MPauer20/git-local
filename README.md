@@ -1,17 +1,17 @@
-# 🧩 Aula Prática – Git Local (sem GitHub)
+#  Aula Prática – Git Local (sem GitHub)
 
-## 🎯 Objetivo
+## Objetivo
 Aprender a utilizar o **Git** localmente para versionar projetos, criando commits, branches e manipulando o histórico de forma segura.
 
 ---
 
-## 🧱 1. Configuração inicial
+## 1. Configuração inicial
 
 Esses comandos configuram o nome e o e-mail do usuário (necessário para registrar os commits).
 
 ```bash
-git config --global user.name "Seu Nome"
-git config --global user.email "seuemail@exemplo.com"
+git config --global user.name "Marcos"
+git config --global user.email "marcos.g.rodrigues7@aluno.senai.br"
 git config --global core.editor "code --wait"   # Define o VS Code como editor padrão (opcional)
 git config --list                                # Verifica as configurações atuais
 ```
