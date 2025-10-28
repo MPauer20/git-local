@@ -18,7 +18,7 @@ git config --list                                # Verifica as configurações a
 
 ---
 
-## 📂 2. Criar e iniciar um repositório
+##  2. Criar e iniciar um repositório
 
 ```bash
 mkdir meu_projeto
